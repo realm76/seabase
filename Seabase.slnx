@@ -1,5 +1,5 @@
 ﻿<Solution>
-  <Project Path="Seabase.Core\Seabase.Core.csproj" Type="Classic C#" />
-  <Project Path="Seabase.Infrastructure\Seabase.Infrastructure.csproj" Type="Classic C#" />
   <Project Path="src\Seabase.Blazor\Seabase.Blazor.csproj" Type="Classic C#" />
+  <Project Path="src\Seabase.Core\Seabase.Core.csproj" Type="Classic C#" />
+  <Project Path="src\Seabase.Infrastructure\Seabase.Infrastructure.csproj" Type="Classic C#" />
 </Solution>

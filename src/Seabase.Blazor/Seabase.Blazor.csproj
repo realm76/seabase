@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\Seabase.Infrastructure\Seabase.Infrastructure.csproj" />
+      <ProjectReference Include="..\Seabase.Infrastructure\Seabase.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>
